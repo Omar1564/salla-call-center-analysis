@@ -8,7 +8,7 @@ This project examines Salla's call center operations to identify service bottlen
 
 ## Dashboard
 
-![[Salla Call Center Performance Dashboard]([https://github.com/Omar1564/salla-call-center-analysis/blob/main/Salla%20Call%20Center%20Performance.pbix](https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi))](dashboard.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](dashboard.png)
 
 ## Dataset
 
